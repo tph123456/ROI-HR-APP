@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "firstName": "John",
+    "lastName": "Smith",
+    "phone": "0299882211",
+    "department": "1",
+    "streetAddress": "1 Code Lane",
+    "cityAddress": "Javaville",
+    "stateAddress": "NSW",
+    "zipAddress": "0100",
+    "countryAddress": "Australia"
+  },
+  {
+    "id": 2,
+    "firstName": "Sue",
+    "lastName": "White",
+    "phone": "0388992255",
+    "department": "2",
+    "streetAddress": "16 Bit Way",
+    "cityAddress": "Byte Cove",
+    "stateAddress": "QLD",
+    "zipAddress": "1101",
+    "countryAddress": "Australia"
+  },
+  {
+    "id": 3,
+    "firstName": "Bob",
+    "lastName": "O'Bits",
+    "phone": "0577882255",
+    "department": "3",
+    "streetAddress": "8 Silicon Road",
+    "cityAddress": "Cloud Hills",
+    "stateAddress": "VIC",
+    "zipAddress": "1001",
+    "countryAddress": "Australia"
+  },
+  {
+    "id": 4,
+    "firstName": "Mary",
+    "lastName": "Blue",
+    "phone": "0644559988",
+    "department": "2",
+    "streetAddress": "4 Processor Boulevard",
+    "cityAddress": "Appletson",
+    "stateAddress": "NT",
+    "zipAddress": "1010",
+    "countryAddress": "Australia"
+  },
+  {
+    "id": 5,
+    "firstName": "Mick",
+    "lastName": "Green",
+    "phone": "0299881122",
+    "department": "3",
+    "streetAddress": "700 Bandwidth Street",
+    "cityAddress": "Bufferland",
+    "stateAddress": "NSW",
+    "zipAddress": "0110",
+    "countryAddress": "Australia"
+  }
+]
